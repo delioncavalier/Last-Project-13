@@ -10,7 +10,7 @@ import csv
 4. daftar pembeli tipe apa: Ibu Rumah Tangga, Anak Kosan, Pelaku Industri
 
 - menu khusus admin:
-1. menambah dan melihat data baeang yang diinput petani
+1. menambah dan melihat data barang yang diinput petani (sm kaya menu petani)
 2. melihat riwayat pembelian
 3. melihat laporan penjualan
 4. melihat laporan data barang (sm kek no 1)
