@@ -18,7 +18,7 @@ import csv
 6. melihat barang yang paling diminati
 7. view data akun (nampilin akun2 dari csvnya)
 
-- menu khusus pembeli: (geva)
+- menu khusus pembeli:
 1. input username, password, dan tipe pembeli
 2. melihat produk di display oleh penjual berdasarkan tipe pembeli (Ibu Rumah Tangga, Anak Kosan, Pelaku Industri)
 3. menambah produk yang ingin dibeli ke keranjang belanja
@@ -27,7 +27,7 @@ import csv
 6. melakukan cek salldo
 7. dapat melihat struk pembayaran (nama barang, jumlah barang, dan total harga barang yang dibeli)
 
-- menu khusus petani(penjual): (geva)
+- menu khusus petani(penjual):
 1. crud barang, bisa nama, harga, dan stok barang
 2. bisa memantau laporan penjualan, stok barang, pembelian, dll mirip kek admin
 """
